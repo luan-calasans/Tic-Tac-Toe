@@ -4,7 +4,7 @@
   <p>Tic-tac-toe built using only simple logic and validation checking.</p>
 </div>
 
-<h2>⚡ Technologies</h2>
+<h2>🚀 Technologies</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
